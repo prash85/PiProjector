@@ -1,0 +1,35 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  R:/nHD EVM Rev2/LAYOUT/03-16-17/nHD EVM Rev2 031617.brd*
+G04 Film Name:    outline*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-2015-S082*
+G04 Origin Date:  Thu Mar 16 08:39:43 2017*
+G04 *
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.000 0.000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     4.000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.004*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X241000Y215000D02*
+X-9000D01*
+Y156645D01*
+X38244D01*
+Y78255D01*
+X0D01*
+Y0D01*
+X241000D01*
+G03X291000Y50000I0J50000D01*
+G01Y165000D01*
+G03X241000Y215000I-50000J0D01*
+M02*

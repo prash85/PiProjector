@@ -1,0 +1,9 @@
+Added Component: Designator=*(MountingHole_TH_M2.5)
+Added Component: Designator=U6(PA_BBONE_CAPE_BLK)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "PatternAgents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "PA_BBONE_CAPE_BLK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "subpart_no"; Value = "1"; VariantName = "[No Variations]"
+Added Class: Name=00_Main_Rev1
+Added Room: Name=00_Main_Rev1
