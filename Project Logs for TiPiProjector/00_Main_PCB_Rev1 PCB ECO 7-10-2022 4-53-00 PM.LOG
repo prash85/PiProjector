@@ -1,0 +1,73 @@
+Added Component: Designator=*(DLP_2000EVM)
+Added Component: Designator=DC1(DC-050-T20)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "SOFNG(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "DC-050-T20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C114916"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DC-050-T20"; VariantName = "[No Variations]"
+Added Component: Designator=P3(Raspberry Pi A+)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "sourceId"; Value = "ajhDnJ4OM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "HDR2X20-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "timeStamp"; Value = "1467473853"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DFR0831)
+Added Pin To Net: NetName=GND Pin=*-P1_1
+Added Pin To Net: NetName=GND Pin=*-P1_2
+Added Pin To Net: NetName=DATA_D18 Pin=*-P1_11
+Added Pin To Net: NetName=DATA_D19 Pin=*-P1_12
+Added Pin To Net: NetName=DATA_D22 Pin=*-P1_13
+Added Pin To Net: NetName=DATA_D21 Pin=*-P1_14
+Added Pin To Net: NetName=DATA_D16 Pin=*-P1_15
+Added Pin To Net: NetName=DATA_D17 Pin=*-P1_16
+Added Pin To Net: NetName=DATA_D20 Pin=*-P1_17
+Added Pin To Net: NetName=GPIO5 Pin=*-P1_18
+Added Pin To Net: NetName=DATA_D23 Pin=*-P1_19
+Added Pin To Net: NetName=GPIO_INIT_DONE Pin=*-P1_26
+Added Pin To Net: NetName=VIDEO_CTRL_VSYNC Pin=*-P1_27
+Added Pin To Net: NetName=VIDEO_CTRL_PCLK Pin=*-P1_28
+Added Pin To Net: NetName=VIDEO_CTRL_HSYNC Pin=*-P1_29
+Added Pin To Net: NetName=VIDEO_CTRL_DATAEN Pin=*-P1_30
+Added Pin To Net: NetName=DATA_D14 Pin=*-P1_31
+Added Pin To Net: NetName=DATA_D15 Pin=*-P1_32
+Added Pin To Net: NetName=DATA_D13 Pin=*-P1_33
+Added Pin To Net: NetName=DATA_D11 Pin=*-P1_34
+Added Pin To Net: NetName=DATA_D12 Pin=*-P1_35
+Added Pin To Net: NetName=DATA_D10 Pin=*-P1_36
+Added Pin To Net: NetName=DATA_D8 Pin=*-P1_37
+Added Pin To Net: NetName=DATA_D9 Pin=*-P1_38
+Added Pin To Net: NetName=DATA_D6 Pin=*-P1_39
+Added Pin To Net: NetName=DATA_D7 Pin=*-P1_40
+Added Pin To Net: NetName=DATA_D4 Pin=*-P1_41
+Added Pin To Net: NetName=DATA_D5 Pin=*-P1_42
+Added Pin To Net: NetName=DATA_D2 Pin=*-P1_43
+Added Pin To Net: NetName=DATA_D3 Pin=*-P1_44
+Added Pin To Net: NetName=DATA_D0 Pin=*-P1_45
+Added Pin To Net: NetName=DATA_D1 Pin=*-P1_46
+Added Pin To Net: NetName=GND Pin=*-P2_1
+Added Pin To Net: NetName=GND Pin=*-P2_2
+Added Pin To Net: NetName=+5V Pin=*-P2_7
+Added Pin To Net: NetName=+5V Pin=*-P2_8
+Added Pin To Net: NetName=PROJ_ON_EXT Pin=*-P2_15
+Added Pin To Net: NetName=EXT_SCL Pin=*-P2_19
+Added Pin To Net: NetName=EXT_SDA Pin=*-P2_20
+Added Pin To Net: NetName=HOST_PRESENTZ Pin=*-P2_43
+Added Pin To Net: NetName=GND Pin=*-P2_44
+Added Pin To Net: NetName=GND Pin=*-P2_45
+Added Pin To Net: NetName=GND Pin=*-P2_46
+Added Pin To Net: NetName=GND Pin=DC1-3
+Added Pin To Net: NetName=GND Pin=DC1-4
+Added Pin To Net: NetName=+12V Pin=DC1-5
+Added Pin To Net: NetName=+12V Pin=DC1-5
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+12V Pin=U1-2
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Member To Class: ClassName=00_Main_Rev1 Member=Component * DLP2000EVM
+Added Member To Class: ClassName=00_Main_Rev1 Member=Component DC1 DC-050-T20
+Added Member To Class: ClassName=00_Main_Rev1 Member=Component P3 HDR2X20-2 Header ONLY
+Added Member To Class: ClassName=00_Main_Rev1 Member=Component U1 DFR0831
+Added Room: Name=00_Main_Rev1

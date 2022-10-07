@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TiPiProjector.PrjPcb]
+   Generated File[00_Main_PCB_Rev1.TXT]
+   Generated File[00_Main_PCB_Rev1.LDP]
+   Generated File[00_Main_PCB_Rev1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:54:42 PM On 7/10/2022

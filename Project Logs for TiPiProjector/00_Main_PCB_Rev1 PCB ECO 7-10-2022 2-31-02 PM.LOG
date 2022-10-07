@@ -1,0 +1,8 @@
+Added Component: Designator=P3(Raspberry Pi A+)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "sourceId"; Value = "ajhDnJ4OM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "HDR2X20-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "timeStamp"; Value = "1467473853"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=00_Main_Rev1 Member=Component P3 HDR2X20-2 Header ONLY
+Added Room: Name=00_Main_Rev1
