@@ -1,6 +1,0 @@
-Added Component: Designator=JP1(RASPBERRYPI-B+-GPIO)
-Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Contributor"; Value = "SparkFun"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "spiceSymbolName"; Value = "RASPBERRYPI-B+-GPIO"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=00_Main_Rev1 Member=Component JP1 RASPBERRYPI-B+-GPIO
