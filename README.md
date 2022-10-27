@@ -17,8 +17,9 @@ A few years back Texas Instruments release an experimental DLP Projector Module 
 </p>
 
 <p align="center">
-  <img src = "/github_assets/images/github_assets/images/1_DLP2000EVM.jpg" width=500>
+  <img src = "/github_assets/images/1_DLP2000EVM.jpg" width=500>
 </p>
+
 
 ## BOM
 
@@ -34,7 +35,7 @@ A few years back Texas Instruments release an experimental DLP Projector Module 
 - Assemble Raspberry Pi , DLP2000EVM Module and Pi Projector PCB as shown in the main image.
 
 <p align="center">
-  <img src = "/github_assets/images/github_assets/images/0_FullASM.jpg" width=500>
+  <img src = "/github_assets/images/0_FullASM.jpg" width=500>
 </p>
 
 - Configure Raspberry Pi as <a href="https://www.youtube.com/watch?v=XFciR-U7yhc&t=1s">MickMake Pi Projector</a>. 
@@ -50,31 +51,32 @@ A few years back Texas Instruments release an experimental DLP Projector Module 
 ### Final PCBs
 
 <p align="center">
-  <img src = "/github_assets/images/github_assets/images/2_TOP.jpg" width=500>
+  <img src = "/github_assets/images/2_TOP.jpg" width=500>
 </p>
 
 <p align="center">
-  <img src = "/github_assets/images/github_assets/images/3_Bottom.jpg" width=500>
+  <img src = "/github_assets/images/3_Bottom.jpg" width=500>
 </p>
 
 ### Random
 
+
 <p align="center">
-  <img src = "/github_assets/images/github_assets/images/4.jpg" width=500>
+  <img src = "/github_assets/images/4.jpg" width=500>
 </p>
 
 <p align="center">
-  <img src = "/github_assets/images/github_assets/images/5.jpg" width=500>
+  <img src = "/github_assets/images/5.jpg" width=500>
 </p>
 
 <p align="center">
-  <img src = "/github_assets/images/github_assets/images/6.jpg" width=500>
+  <img src = "/github_assets/images/6.jpg" width=500>
 </p>
 
 <p align="center">
-  <img src = "/github_assets/images/github_assets/images/7.jpg" width=500>
+  <img src = "/github_assets/images/7.jpg" width=500>
 </p>
 
 <p align="center">
-  <img src = "/github_assets/images/github_assets/images/8.jpg" width=500>
+  <img src = "/github_assets/images/8.jpg" width=500>
 </p>
